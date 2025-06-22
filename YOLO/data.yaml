@@ -1,0 +1,4 @@
+train: C:\Users\CSE IIT BHILAI\Documents\cc\dataset2\train\images
+val: C:\Users\CSE IIT BHILAI\Documents\cc\dataset2\val\images
+nc: 2
+names: ['msd', 'kapil_dev']
